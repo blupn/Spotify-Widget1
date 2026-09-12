@@ -34,8 +34,7 @@ Masaüstüne sağ tık → Düzenleme Moduna Gir → Widget/Gereç Ekle → Spot
 
 Tasarımı değiştirmek için widget’a sağ tık → Spotify Card Ayarları → Görünüm. Buradan yuvarlak, şeffaf veya 8-bit seçebilirsin.
 
-
-<img width="349" height="423" alt="3" src="https://github.com/user-attachments/assets/317179d2-0c36-4a87-adb0-b7561ad98bfe" />
-<img width="339" height="416" alt="2" src="https://github.com/user-attachments/assets/42100261-749a-499e-8275-5739eda4607d" />
-<img width="337" height="416" alt="1" src="https://github.com/user-attachments/assets/9754a5d3-b7a3-401c-b06e-cb133fe23d09" />
+<img width="392" height="451" alt="3" src="https://github.com/user-attachments/assets/53f19a81-9341-4e82-abe9-f06103789331" />
+<img width="355" height="432" alt="2" src="https://github.com/user-attachments/assets/a18d3ba5-4e95-4b93-bd72-4b56636b7c22" />
+<img width="362" height="423" alt="1" src="https://github.com/user-attachments/assets/b4e14d96-bed4-4f7b-8a2e-94e83d6e20ef" />
 
