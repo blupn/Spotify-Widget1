@@ -17,6 +17,12 @@ To change the design, right-click the widget → Spotify Card Settings → Appea
 
 
 
+
+
+
+
+
+
 1. Dosyayı indir: spotify-card.plasmoid
 
 Şifreni yazarken ekranda görünmez, normal. Onay isterse Enter bas.
