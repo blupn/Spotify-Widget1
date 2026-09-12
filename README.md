@@ -33,3 +33,9 @@ Masaüstüne sağ tık → Düzenleme Moduna Gir → Widget/Gereç Ekle → Spot
 4. Spotify’ı açıp bir şarkı başlat. Kapak ve şarkı bilgileri gelmeli.
 
 Tasarımı değiştirmek için widget’a sağ tık → Spotify Card Ayarları → Görünüm. Buradan yuvarlak, şeffaf veya 8-bit seçebilirsin.
+
+
+<img width="349" height="423" alt="3" src="https://github.com/user-attachments/assets/317179d2-0c36-4a87-adb0-b7561ad98bfe" />
+<img width="339" height="416" alt="2" src="https://github.com/user-attachments/assets/42100261-749a-499e-8275-5739eda4607d" />
+<img width="337" height="416" alt="1" src="https://github.com/user-attachments/assets/9754a5d3-b7a3-401c-b06e-cb133fe23d09" />
+
