@@ -1,4 +1,4 @@
-Spotify-Widget-
+
 Download the file: spotify-card.plasmoid
 
 Your password will not be displayed on the screen while typing; this is normal. Press Enter if asked for confirmation.
@@ -16,7 +16,6 @@ Open Spotify and play a song. The cover art and song information should appear.
 To change the design, right-click the widget → Spotify Card Settings → Appearance. From here, you can select rounded, transparent, or 8-bit themes.
 
 
-# Spotiyfy-Widget-
 
 1. Dosyayı indir: spotify-card.plasmoid
 
